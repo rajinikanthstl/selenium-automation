@@ -1,0 +1,702 @@
+[2026-08-19 11:48:22] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:48:26] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:48:29] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:48:30] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:48:30] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:48:30] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:48:31] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:48:32] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:48:32] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:48:32] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:48:32] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:48:33] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:48:34] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:48:34] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:48:35] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:51:19] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:51:21] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:51:22] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:51:23] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:51:23] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 11:51:23] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 11:51:24] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 11:51:24] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 11:51:26] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 11:51:26] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 11:51:26] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:51:27] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:51:28] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:51:29] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:51:29] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:51:29] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 11:51:29] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 11:51:29] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 11:51:29] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 11:51:32] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 11:51:32] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 11:51:32] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:51:32] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:51:33] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:51:34] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:51:34] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:51:34] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 11:51:34] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 11:51:34] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 11:51:34] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 11:51:37] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 11:51:37] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 11:51:37] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 11:52:49] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 11:52:51] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 11:52:52] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 11:52:53] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 11:52:53] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 11:52:53] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 11:52:53] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 11:52:53] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 11:52:56] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 11:52:56] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 11:52:56] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 11:52:56] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 11:52:57] [INFO] [main] Log - test.SearchEmployee.searchEmployee - employee record found in the search
+[2026-08-19 11:52:57] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logout from application
+[2026-08-19 11:52:57] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:01:55] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:01:58] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:02:01] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:02:02] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:02:02] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:02:03] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:02:03] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:02:04] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:02:04] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:02:06] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:02:06] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:02:06] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:02:06] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:02:07] [INFO] [main] Log - test.SearchEmployee.searchEmployee - employee record found in the search
+[2026-08-19 12:02:08] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logout from application
+[2026-08-19 12:02:08] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:04:00] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:04:04] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:04:05] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:04:06] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - loging into the application
+[2026-08-19 12:04:06] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:04:06] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:04:07] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:04:07] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - logged into the application
+[2026-08-19 12:04:07] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - clicking on employee->search for navigating to search page
+[2026-08-19 12:04:09] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - navigated to search page
+[2026-08-19 12:04:09] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - deleting the employee
+[2026-08-19 12:04:09] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - entering employee name to delete
+[2026-08-19 12:04:10] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - clicking on search button
+[2026-08-19 12:04:10] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - clicking on delete button
+[2026-08-19 12:04:10] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - clicking on yes
+[2026-08-19 12:04:10] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - closing the toast message
+[2026-08-19 12:04:11] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - deleted employee successfully
+[2026-08-19 12:04:11] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - loging out of application
+[2026-08-19 12:04:12] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:07:03] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:07:06] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:07:07] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:07:08] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:07:08] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:07:08] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:07:09] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:07:09] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:07:09] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:07:11] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:07:11] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:07:11] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:07:11] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:07:12] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:07:12] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:07:13] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:07:14] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:07:14] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:07:14] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:07:15] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:07:15] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:07:16] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:07:16] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:07:17] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:07:17] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:07:17] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:07:18] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:07:18] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:07:18] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:07:19] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:07:20] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:07:20] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:07:20] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:07:21] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:07:21] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:07:22] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:07:22] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:07:23] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:07:23] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:07:23] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:07:24] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:07:24] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:10:32] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:10:34] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:10:35] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:10:36] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:10:36] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:10:37] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:10:37] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:10:38] [INFO] [main] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:10:39] [INFO] [main] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:10:39] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:10:39] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:10:42] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:10:43] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:10:43] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:10:43] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:10:43] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:10:44] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:10:45] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:10:45] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:10:46] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:10:47] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:10:48] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:10:48] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:10:48] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:10:48] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:10:48] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:10:49] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:10:49] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:10:50] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:10:51] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:10:52] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:10:52] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:10:52] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:10:52] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:10:53] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:10:53] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:10:53] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:10:54] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:10:55] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:10:56] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:10:56] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:10:56] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:10:56] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:10:56] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:10:57] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:10:57] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:14:16] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:14:17] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:14:18] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:14:19] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:14:19] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:14:19] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:14:19] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:14:20] [INFO] [main] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:14:20] [INFO] [main] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:14:20] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:14:20] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:14:21] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:14:22] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:14:22] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:14:22] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:14:22] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:14:22] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:14:23] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:14:23] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:14:23] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:14:24] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:14:25] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:14:25] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:14:25] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:14:25] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:14:26] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:14:26] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:14:26] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:14:27] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:14:28] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:14:29] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:14:29] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:14:29] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:14:29] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:14:29] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:14:29] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:14:29] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:14:29] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:14:30] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:14:31] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:14:31] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:14:31] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:14:31] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:14:31] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:14:32] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:14:32] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:16:58] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:16:59] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:01] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:01] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:17:01] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:02] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:02] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:03] [INFO] [main] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:17:03] [INFO] [main] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:17:03] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:03] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:04] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:05] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:05] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:17:05] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:05] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:05] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:06] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:17:06] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:06] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:07] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:08] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:08] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:17:08] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:09] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:09] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:10] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:17:10] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:10] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:11] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:12] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:12] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:17:12] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:12] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:12] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:12] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:17:12] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:12] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:13] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:14] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:14] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:17:14] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:14] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:14] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:14] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:17:14] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:15] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:16] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:17] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:17] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:17:17] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:17] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:17] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:18] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:17:18] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:17:19] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:17:19] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:17:19] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:17:19] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:17:20] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:20] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:21] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:22] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:22] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:17:22] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:22] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:22] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:23] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:17:23] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:17:24] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:17:24] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:17:24] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:17:24] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:17:25] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:17:25] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:17:26] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:17:27] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:17:27] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:17:27] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:17:28] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:17:28] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:17:28] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:17:28] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:17:30] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:17:30] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:17:30] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:17:30] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:17:30] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:13] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:13] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:14] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:14] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:15] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:15] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:17] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:19:17] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:19:17] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:19:17] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:19:17] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:18] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:19] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:19:19] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:19:19] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:19:19] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:19] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:19:20] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:20] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:20] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:19:20] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:20] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:21] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:21] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:22] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:19:22] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:22] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:22] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:23] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:23] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:19:23] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:23] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:24] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:24] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:25] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:26] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:19:26] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:26] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:27] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:19:27] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:19:27] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:19:27] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:19:28] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:28] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:28] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:29] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:30] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:31] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:19:31] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:19:31] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:19:31] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:19:31] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:19:32] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:19:32] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:19:32] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:19:32] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:19:33] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:19:33] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:19:33] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:19:34] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:19:34] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:25:23] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:25:24] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:25:24] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:25:57] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:25:57] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:25:58] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:25:59] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:25:59] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:25:59] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:25:59] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:25:59] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:26:00] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:26:01] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:26:01] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:26:01] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:26:01] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:26:01] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - failed test:element click intercepted: Element <button type="button" id="btn..." class="btn btn-success m-r-xs" onclick="searchEmployee()">Search</button> is not clickable at point (1140, 220). Other element would receive the click: <div id="divLoader" class="loader" style="z-index: 9999; display: block;">...</div>
+  (Session info: chrome=151.0.7922.140)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f9f029fa45170da05809618c3f275800, clickElement {id=f.572E5327C275F4F95D35FB0CA02C4D95.d.04EB168508CB2AF0DEF62F35F23CD09A.e.81}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 151.0.7922.140, chrome: {chromedriverVersion: 151.0.7922.138 (41fa8244239..., userDataDir: C:\Users\rajin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51471}, goog:processID: 50304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51471/devtoo..., se:cdpVersion: 151.0.7922.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f9f029fa45170da05809618c3f275800)] -> css selector: button#btnSearch]
+Session ID: f9f029fa45170da05809618c3f275800
+[2026-08-19 12:26:02] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:26:03] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:26:03] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:26:03] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:26:04] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:26:05] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:26:05] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:26:05] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:26:05] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:26:05] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:26:06] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:26:06] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:26:06] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:26:08] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:26:09] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:26:10] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:26:12] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:04] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:05] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:06] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:06] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:07] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:07] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:08] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:09] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:28:09] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:28:09] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:28:10] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:28:10] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:10] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:11] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:28:11] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:28:11] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:28:11] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:28:11] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:12] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:13] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:14] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:14] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:28:14] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:14] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:15] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:16] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:16] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:28:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:16] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:28:17] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:18] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:28:18] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:18] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:19] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:28:19] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:28:19] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:28:19] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:28:19] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:20] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:20] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:20] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:21] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-2] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:22] [INFO] [TestNG-tests-2] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:23] [INFO] [TestNG-tests-1] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:28:23] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:28:23] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:28:23] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:28:23] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:28:24] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:28:24] [INFO] [TestNG-tests-1] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:28:24] [INFO] [TestNG-tests-1] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:28:24] [INFO] [TestNG-tests-1] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:28:25] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:28:25] [INFO] [TestNG-tests-2] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:28:25] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:28:26] [INFO] [TestNG-tests-2] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:28:26] [INFO] [TestNG-tests-2] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:16] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:18] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:20] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:21] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: jobprogram
+[2026-08-19 12:44:21] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:21] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:21] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:22] [INFO] [main] Log - test.LoginTest.loginTest - login succesful and verified
+[2026-08-19 12:44:22] [INFO] [main] Log - test.LoginTest.loginTest - loged out
+[2026-08-19 12:44:22] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:23] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:23] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:25] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:25] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: wrongpass123
+[2026-08-19 12:44:25] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:25] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:25] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:26] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:44:26] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:26] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:27] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:28] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:28] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: invaliduser@test.com and passsword: jobprogram
+[2026-08-19 12:44:28] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:28] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:28] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:28] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:44:28] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:30] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:31] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:32] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:32] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email:  and passsword: jobprogram
+[2026-08-19 12:44:32] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:32] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:32] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:32] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:44:32] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:32] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:33] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:34] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:34] [INFO] [main] Log - test.LoginTest.loginTest - loging in with email: training@jalaacademy.com and passsword: 
+[2026-08-19 12:44:34] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:34] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:34] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:35] [INFO] [main] Log - test.LoginTest.loginTest - error message verified
+[2026-08-19 12:44:35] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:35] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:36] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:37] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:37] [INFO] [main] Log - test.CreateEmployee.createEmployee - login to the appllication
+[2026-08-19 12:44:37] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:37] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:37] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:38] [INFO] [main] Log - test.CreateEmployee.createEmployee - logged into the application
+[2026-08-19 12:44:38] [INFO] [main] Log - test.CreateEmployee.createEmployee - clicking on employee->create for navigating to the create page
+[2026-08-19 12:44:38] [INFO] [main] Log - test.CreateEmployee.createEmployee - navigated to create page
+[2026-08-19 12:44:38] [INFO] [main] Log - test.CreateEmployee.createEmployee - filling the employee form and clicking on save
+[2026-08-19 12:44:38] [INFO] [main] Log - pages.CreatePage.CreateEmployee - entering first name
+[2026-08-19 12:44:38] [INFO] [main] Log - pages.CreatePage.CreateEmployee - entering last name
+[2026-08-19 12:44:39] [INFO] [main] Log - pages.CreatePage.CreateEmployee - entering email
+[2026-08-19 12:44:39] [INFO] [main] Log - pages.CreatePage.CreateEmployee - entering mobile number
+[2026-08-19 12:44:39] [INFO] [main] Log - pages.CreatePage.CreateEmployee - entering address
+[2026-08-19 12:44:39] [INFO] [main] Log - pages.CreatePage.CreateEmployee - selecting country from dropdown
+[2026-08-19 12:44:39] [INFO] [main] Log - pages.CreatePage.CreateEmployee - selecting city from dropdown
+[2026-08-19 12:44:40] [INFO] [main] Log - pages.CreatePage.CreateEmployee - checking the skill checkbox
+[2026-08-19 12:44:40] [INFO] [main] Log - pages.CreatePage.CreateEmployee - clicking on save button
+[2026-08-19 12:44:41] [INFO] [main] Log - test.CreateEmployee.createEmployee - created a new employee record
+[2026-08-19 12:44:41] [INFO] [main] Log - test.CreateEmployee.createEmployee - navigated to search page
+[2026-08-19 12:44:41] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:41] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:42] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:43] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:43] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:44:43] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:43] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:43] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:43] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:44:43] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:44:45] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:44:45] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:44:45] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:44:45] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:44:45] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:46] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:46] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:47] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:47] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:44:47] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:47] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:47] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:48] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:44:48] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:44:49] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:44:49] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:44:49] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:44:50] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:44:50] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:50] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:51] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:52] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:52] [INFO] [main] Log - test.SearchEmployee.searchEmployee - login to the application
+[2026-08-19 12:44:52] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:52] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:53] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:53] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logged into the application
+[2026-08-19 12:44:53] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigating to the search page
+[2026-08-19 12:44:55] [INFO] [main] Log - test.SearchEmployee.searchEmployee - navigated to the search page
+[2026-08-19 12:44:55] [INFO] [main] Log - test.SearchEmployee.searchEmployee - searching for employee record
+[2026-08-19 12:44:55] [INFO] [main] Log - pages.SearchPage.SearchEmployee - entering employee name to search
+[2026-08-19 12:44:55] [INFO] [main] Log - pages.SearchPage.SearchEmployee - clicking on search button
+[2026-08-19 12:44:55] [INFO] [main] Log - test.SearchEmployee.searchEmployee - employee record found in the search
+[2026-08-19 12:44:55] [INFO] [main] Log - test.SearchEmployee.searchEmployee - logout from application
+[2026-08-19 12:44:55] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
+[2026-08-19 12:44:56] [INFO] [main] Log - base.BaseClass.launch - Launching the browser...
+[2026-08-19 12:44:56] [INFO] [main] Log - base.BaseClass.launch - chromedriver initialized
+[2026-08-19 12:44:58] [INFO] [main] Log - base.BaseClass.launch - Browser Launched With Url
+[2026-08-19 12:44:58] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - loging into the application
+[2026-08-19 12:44:58] [INFO] [main] Log - pages.LoginPage.Login - entering username
+[2026-08-19 12:44:58] [INFO] [main] Log - pages.LoginPage.Login - entering password
+[2026-08-19 12:44:58] [INFO] [main] Log - pages.LoginPage.Login - clicking login button
+[2026-08-19 12:44:59] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - logged into the application
+[2026-08-19 12:44:59] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - clicking on employee->search for navigating to search page
+[2026-08-19 12:45:00] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - navigated to search page
+[2026-08-19 12:45:00] [INFO] [main] Log - test.DeleteEmployee.deleteEmployee - deleting the employee
+[2026-08-19 12:45:00] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - entering employee name to delete
+[2026-08-19 12:45:00] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - clicking on search button
+[2026-08-19 12:45:00] [INFO] [main] Log - pages.SearchPage.DeleteEmployee - clicking on delete button
+[2026-08-19 12:45:00] [ERROR] [main] Log - test.DeleteEmployee.deleteEmployee - test failed:stale element reference: stale element not found in the current frame
+  (Session info: chrome=151.0.7922.140)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3002030585d27da6af20bfe796997822, clickElement {id=f.E59EF6DE9A4760EEA0308341F405EE3C.d.C0C86B03320160C0311129239F063D28.e.74}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 151.0.7922.140, chrome: {chromedriverVersion: 151.0.7922.138 (41fa8244239..., userDataDir: C:\Users\rajin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52281}, goog:processID: 36576, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52281/devtoo..., se:cdpVersion: 151.0.7922.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3002030585d27da6af20bfe796997822)] -> css selector: a[title='Delete']]
+Session ID: 3002030585d27da6af20bfe796997822
+[2026-08-19 12:45:00] [INFO] [main] Log - base.BaseClass.closeAllTabs - closing all browser tabs after test
