@@ -21,7 +21,7 @@ public class LoginTest extends BaseClass{
 		return DataDrivenUtil.getData(path,sheet);
 	}
 	
-	@Test(dataProvider="logindata")
+	@Test(description="DDT for Login",dataProvider="logindata")
 	void loginTest(String testcase,String username,String password,String validity) throws IOException, InterruptedException {
 		
 		try {

@@ -14,7 +14,7 @@ import utilities.RetryFailed;
 
 public class SearchEmployee extends BaseClass{
 	
-	@Test(retryAnalyzer=RetryFailed.class)
+	@Test(description="search for an employee",retryAnalyzer=RetryFailed.class)
 	void searchEmployee() throws IOException, InterruptedException {
 		try {
 			

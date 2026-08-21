@@ -16,7 +16,7 @@ public class Listener implements ITestListener {
     @Override
     public void onTestStart(ITestResult result) {
         ExtentTest test = ExtentManager.getInstance()
-                .createTest(result.getMethod().getMethodName());
+                .createTest(result.getMethod().getDescription());
         ExtentTestManager.setTest(test);
     }
 

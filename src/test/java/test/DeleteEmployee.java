@@ -13,7 +13,7 @@ import utilities.Log;
 
 public class DeleteEmployee extends BaseClass{
 	
-	@Test
+	@Test(description="delete an employee")
 	void deleteEmployee() throws IOException, InterruptedException {
 		try {
 			

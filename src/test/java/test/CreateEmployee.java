@@ -14,7 +14,7 @@ import utilities.Log;
 
 public class CreateEmployee extends BaseClass{
 	
-	@Test
+	@Test(description="create an employee")
 	void createEmployee() throws IOException, InterruptedException {
 		try {
 			
